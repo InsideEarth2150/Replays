@@ -1,0 +1,80 @@
+{
+  "game": "e2150",
+  "map": "(AI 15) FFA Equality [B] v1.3",
+  "players": [
+    {
+      "slot": 1,
+      "name": "ownED",
+      "side": "LC",
+      "ai": false
+    },
+    {
+      "slot": 3,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 4,
+      "name": "Szakael",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 5,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 6,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 7,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 8,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 15,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    }
+  ],
+  "seconds": 1508,
+  "length": "25:08",
+  "recorded": "2026-09-25T20:59:39",
+  "replay": "260925205939_OwFoSzLiFoFiFoFo.demo",
+  "files": [
+    "260925205939_OwFoSzLiFoFiFoFo.demo",
+    "260925205939_OwFoSzLiFoFiFoFo.jpg",
+    "260925205939_OwFoSzLiFoFiFoFo.txt"
+  ],
+  "uploaded": "2026-10-14T15:20:05Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

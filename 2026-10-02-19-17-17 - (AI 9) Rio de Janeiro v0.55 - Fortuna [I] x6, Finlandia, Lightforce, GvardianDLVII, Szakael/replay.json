@@ -1,0 +1,92 @@
+{
+  "game": "e2150",
+  "map": "(AI  9) Rio de Janeiro v0.55",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 2,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 3,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 4,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 5,
+      "name": "GvardianDLVII",
+      "side": "LC",
+      "ai": false
+    },
+    {
+      "slot": 6,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 7,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 8,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 9,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 11,
+      "name": "Szakael",
+      "side": "LC",
+      "ai": false
+    }
+  ],
+  "seconds": 804,
+  "length": "13:24",
+  "recorded": "2026-10-02T19:17:17",
+  "replay": "261002191717_FoFoFiLiGvFoFoFoFoSz.demo",
+  "files": [
+    "261002191717_FoFoFiLiGvFoFoFoFoSz.demo",
+    "261002191717_FoFoFiLiGvFoFoFoFoSz.jpg",
+    "261002191717_FoFoFiLiGvFoFoFoFoSz.txt"
+  ],
+  "uploaded": "2026-10-14T15:20:12Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

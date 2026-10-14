@@ -1,0 +1,44 @@
+{
+  "game": "e2150",
+  "map": "( 4) 2v2 + 8 watchers v3",
+  "players": [
+    {
+      "slot": 2,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 4,
+      "name": "[NHG]Lightforce",
+      "side": "ED",
+      "ai": false
+    }
+  ],
+  "seconds": 543,
+  "length": "9:03",
+  "recorded": "2026-09-18T19:46:54",
+  "replay": "260918194654_FiNh.demo",
+  "files": [
+    "260918194654_FiNh.demo",
+    "260918194654_FiNh.jpg",
+    "260918194654_FiNh.txt"
+  ],
+  "uploaded": "2026-10-14T15:19:58Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}
