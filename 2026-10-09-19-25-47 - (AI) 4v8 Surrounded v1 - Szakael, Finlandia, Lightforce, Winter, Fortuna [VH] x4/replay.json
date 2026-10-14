@@ -1,0 +1,80 @@
+{
+  "game": "e2150",
+  "map": "(AI) 4v8 Surrounded v1",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Szakael",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 2,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 3,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 4,
+      "name": "Winter",
+      "side": "LC",
+      "ai": false
+    },
+    {
+      "slot": 5,
+      "name": "Fortuna [VH]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 6,
+      "name": "Fortuna [VH]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 7,
+      "name": "Fortuna [VH]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 8,
+      "name": "Fortuna [VH]",
+      "side": "UCS",
+      "ai": true
+    }
+  ],
+  "seconds": 1526,
+  "length": "25:26",
+  "recorded": "2026-10-09T19:25:47",
+  "replay": "261009192547_SzFiLiWiFoFoFoFo.demo",
+  "files": [
+    "261009192547_SzFiLiWiFoFoFoFo.demo",
+    "261009192547_SzFiLiWiFoFoFoFo.jpg",
+    "261009192547_SzFiLiWiFoFoFoFo.txt"
+  ],
+  "uploaded": "2026-10-14T15:21:15Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

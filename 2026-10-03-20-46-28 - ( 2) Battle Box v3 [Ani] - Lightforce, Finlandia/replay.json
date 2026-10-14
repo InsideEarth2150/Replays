@@ -1,0 +1,44 @@
+{
+  "game": "e2150",
+  "map": "( 2) Battle Box v3 [Ani]",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 2,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    }
+  ],
+  "seconds": 34,
+  "length": "0:34",
+  "recorded": "2026-10-03T20:46:28",
+  "replay": "261003204628_LiFi.demo",
+  "files": [
+    "261003204628_LiFi.demo",
+    "261003204628_LiFi.jpg",
+    "261003204628_LiFi.txt"
+  ],
+  "uploaded": "2026-10-14T15:21:08Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

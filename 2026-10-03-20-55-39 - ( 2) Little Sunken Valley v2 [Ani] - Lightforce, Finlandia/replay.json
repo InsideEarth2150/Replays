@@ -1,0 +1,44 @@
+{
+  "game": "e2150",
+  "map": "( 2) Little Sunken Valley v2 [Ani]",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 2,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    }
+  ],
+  "seconds": 1760,
+  "length": "29:20",
+  "recorded": "2026-10-03T20:55:39",
+  "replay": "261003205539_LiFi.demo",
+  "files": [
+    "261003205539_LiFi.demo",
+    "261003205539_LiFi.jpg",
+    "261003205539_LiFi.txt"
+  ],
+  "uploaded": "2026-10-14T15:21:09Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}
