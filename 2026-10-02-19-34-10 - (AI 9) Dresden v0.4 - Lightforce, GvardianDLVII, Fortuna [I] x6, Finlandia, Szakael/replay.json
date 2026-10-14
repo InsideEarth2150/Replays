@@ -1,0 +1,92 @@
+{
+  "game": "e2150",
+  "map": "(AI  9) Dresden v0.4",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 2,
+      "name": "GvardianDLVII",
+      "side": "LC",
+      "ai": false
+    },
+    {
+      "slot": 3,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 4,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 5,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 6,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 7,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 8,
+      "name": "Szakael",
+      "side": "LC",
+      "ai": false
+    },
+    {
+      "slot": 9,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 15,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    }
+  ],
+  "seconds": 983,
+  "length": "16:23",
+  "recorded": "2026-10-02T19:34:10",
+  "replay": "261002193410_LiGvFoFoFiFoFoSzFoFo.demo",
+  "files": [
+    "261002193410_LiGvFoFoFiFoFoSzFoFo.demo",
+    "261002193410_LiGvFoFoFiFoFoSzFoFo.jpg",
+    "261002193410_LiGvFoFoFiFoFoSzFoFo.txt"
+  ],
+  "uploaded": "2026-10-14T15:21:06Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

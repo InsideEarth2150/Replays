@@ -1,0 +1,20 @@
+NOTE: This is just an info file that is not needed for replaying recorded games. It is just for your convenience to quickly find a game that interests you.
+ (AI 12) 4x3 Grid v0.1
+
+Players:
+Lightforce [ED]
+Winter [LC]
+Finlandia [UCS]
+ownED [UCS]
+Szakael [LC]
+EMPTY SLOT
+Fortuna [I] [UCS]
+Fortuna [I] [ED]
+Fortuna [I] [UCS]
+Fortuna [I] [UCS]
+Fortuna [I] [ED]
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT

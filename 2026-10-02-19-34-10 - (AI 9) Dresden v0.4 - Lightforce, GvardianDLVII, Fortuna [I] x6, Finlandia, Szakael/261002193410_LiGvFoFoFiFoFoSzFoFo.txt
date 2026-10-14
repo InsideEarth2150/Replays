@@ -1,0 +1,20 @@
+NOTE: This is just an info file that is not needed for replaying recorded games. It is just for your convenience to quickly find a game that interests you.
+ (AI  9) Dresden v0.4
+
+Players:
+Lightforce [ED]
+GvardianDLVII [LC]
+Fortuna [I] [ED]
+Fortuna [I] [LC]
+Finlandia [UCS]
+Fortuna [I] [ED]
+Fortuna [I] [LC]
+Szakael [LC]
+Fortuna [I] [ED]
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
+Fortuna [I] [LC]
+EMPTY SLOT

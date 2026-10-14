@@ -1,0 +1,92 @@
+{
+  "game": "e2150",
+  "map": "(AI 12) 4x3 Grid v0.1",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 2,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 3,
+      "name": "Winter",
+      "side": "LC",
+      "ai": false
+    },
+    {
+      "slot": 4,
+      "name": "ownED",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 5,
+      "name": "Szakael",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 8,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 9,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 10,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 11,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 12,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    }
+  ],
+  "seconds": 47,
+  "length": "0:47",
+  "recorded": "2026-10-09T20:32:16",
+  "replay": "261009203216_LiFiWiOwSzFoFoFoFoFo.demo",
+  "files": [
+    "261009203216_LiFiWiOwSzFoFoFoFoFo.demo",
+    "261009203216_LiFiWiOwSzFoFoFoFoFo.jpg",
+    "261009203216_LiFiWiOwSzFoFoFoFoFo.txt"
+  ],
+  "uploaded": "2026-10-14T15:21:17Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

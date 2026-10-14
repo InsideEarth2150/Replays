@@ -1,0 +1,56 @@
+{
+  "game": "e2150",
+  "map": "( 4) 2v2 + 8 watchers [DEH]",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 2,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 3,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 4,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    }
+  ],
+  "seconds": 2183,
+  "length": "36:23",
+  "recorded": "2026-10-03T22:16:37",
+  "replay": "261003221637_LiFiFoFo.demo",
+  "files": [
+    "261003221637_LiFiFoFo.demo",
+    "261003221637_LiFiFoFo.jpg",
+    "261003221637_LiFiFoFo.txt"
+  ],
+  "uploaded": "2026-10-14T15:21:11Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

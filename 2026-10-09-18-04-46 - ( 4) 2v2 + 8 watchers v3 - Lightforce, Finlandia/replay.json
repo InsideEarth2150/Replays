@@ -1,0 +1,44 @@
+{
+  "game": "e2150",
+  "map": "( 4) 2v2 + 8 watchers v3",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Lightforce",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 3,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    }
+  ],
+  "seconds": 1573,
+  "length": "26:13",
+  "recorded": "2026-10-09T18:04:46",
+  "replay": "261009180446_LiFi.demo",
+  "files": [
+    "261009180446_LiFi.demo",
+    "261009180446_LiFi.jpg",
+    "261009180446_LiFi.txt"
+  ],
+  "uploaded": "2026-10-14T15:21:12Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}
