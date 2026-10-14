@@ -1,0 +1,62 @@
+{
+  "game": "e2150",
+  "map": "(AI 15) FFA Equality [B] v1.3.81",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Lightforce",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 3,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 6,
+      "name": "Szakael",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 9,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 10,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    }
+  ],
+  "seconds": 1782,
+  "length": "29:42",
+  "recorded": "2026-09-25T19:01:19",
+  "replay": "260925190119_LiFiSzFoFo.demo",
+  "files": [
+    "260925190119_LiFiSzFoFo.demo",
+    "260925190119_LiFiSzFoFo.jpg",
+    "260925190119_LiFiSzFoFo.txt"
+  ],
+  "uploaded": "2026-10-14T15:20:02Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

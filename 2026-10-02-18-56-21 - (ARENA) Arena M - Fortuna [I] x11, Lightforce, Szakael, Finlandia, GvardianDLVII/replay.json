@@ -1,0 +1,122 @@
+{
+  "game": "e2150",
+  "map": "(ARENA) Arena M",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 2,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 3,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 4,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 5,
+      "name": "Szakael",
+      "side": "LC",
+      "ai": false
+    },
+    {
+      "slot": 6,
+      "name": "Fortuna [I]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 7,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 8,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 9,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 10,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 11,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 12,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 13,
+      "name": "Fortuna [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 14,
+      "name": "Fortuna [I]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 15,
+      "name": "GvardianDLVII",
+      "side": "LC",
+      "ai": false
+    }
+  ],
+  "seconds": 1491,
+  "length": "24:51",
+  "recorded": "2026-10-02T18:56:21",
+  "replay": "261002185621_FoLiFoFoSzFoFoFiFoFoFoFoFoFoGv.demo",
+  "files": [
+    "261002185621_FoLiFoFoSzFoFoFiFoFoFoFoFoFoGv.demo",
+    "261002185621_FoLiFoFoSzFoFoFiFoFoFoFoFoFoGv.jpg",
+    "261002185621_FoLiFoFoSzFoFoFiFoFoFoFoFoFoGv.txt"
+  ],
+  "uploaded": "2026-10-14T15:20:11Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

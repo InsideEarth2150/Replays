@@ -1,0 +1,20 @@
+NOTE: This is just an info file that is not needed for replaying recorded games. It is just for your convenience to quickly find a game that interests you.
+ (AI 15) FFA Equality [B] v1.3.81
+
+Players:
+Lightforce [UCS]
+EMPTY SLOT
+Finlandia [UCS]
+EMPTY SLOT
+EMPTY SLOT
+Szakael [UCS]
+EMPTY SLOT
+EMPTY SLOT
+Fortuna [I] [UCS]
+Fortuna [I] [ED]
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT

@@ -1,0 +1,98 @@
+{
+  "game": "e2150",
+  "map": "(AI) 4v8 Surrounded v0.4",
+  "players": [
+    {
+      "slot": 1,
+      "name": "Szakael",
+      "side": "LC",
+      "ai": false
+    },
+    {
+      "slot": 2,
+      "name": "Finlandia",
+      "side": "UCS",
+      "ai": false
+    },
+    {
+      "slot": 3,
+      "name": "Lightforce",
+      "side": "ED",
+      "ai": false
+    },
+    {
+      "slot": 5,
+      "name": "Jupiter [I]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 6,
+      "name": "Jupiter [M]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 7,
+      "name": "Jupiter [M]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 8,
+      "name": "Jupiter [M]",
+      "side": "ED",
+      "ai": true
+    },
+    {
+      "slot": 9,
+      "name": "Jupiter [M]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 10,
+      "name": "Jupiter [M]",
+      "side": "LC",
+      "ai": true
+    },
+    {
+      "slot": 11,
+      "name": "Jupiter [M]",
+      "side": "UCS",
+      "ai": true
+    },
+    {
+      "slot": 12,
+      "name": "Jupiter [M]",
+      "side": "UCS",
+      "ai": true
+    }
+  ],
+  "seconds": 1502,
+  "length": "25:02",
+  "recorded": "2026-09-26T21:44:16",
+  "replay": "260926214416_SzFiLiJuJuJuJuJuJuJuJu.demo",
+  "files": [
+    "260926214416_SzFiLiJuJuJuJuJuJuJuJu.demo",
+    "260926214416_SzFiLiJuJuJuJuJuJuJuJu.jpg",
+    "260926214416_SzFiLiJuJuJuJuJuJuJuJu.txt"
+  ],
+  "uploaded": "2026-10-14T15:20:07Z",
+  "uploadedBy": "anonymous",
+  "version": "2.11.0",
+  "mods": [
+    {
+      "name": "Advanced AI",
+      "version": "1.8dev6"
+    },
+    {
+      "name": "EarthFixes",
+      "version": "2.14"
+    },
+    {
+      "name": "TheNewMoon",
+      "version": "2.2"
+    }
+  ]
+}

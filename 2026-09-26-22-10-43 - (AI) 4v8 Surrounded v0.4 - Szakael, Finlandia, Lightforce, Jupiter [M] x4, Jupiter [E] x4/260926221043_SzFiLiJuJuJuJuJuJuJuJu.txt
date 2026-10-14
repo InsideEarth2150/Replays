@@ -1,0 +1,20 @@
+NOTE: This is just an info file that is not needed for replaying recorded games. It is just for your convenience to quickly find a game that interests you.
+ (AI) 4v8 Surrounded v0.4
+
+Players:
+Szakael [LC]
+Finlandia [UCS]
+Lightforce [ED]
+EMPTY SLOT
+Jupiter [M] [UCS]
+Jupiter [M] [ED]
+Jupiter [M] [UCS]
+Jupiter [M] [UCS]
+Jupiter [E] [LC]
+Jupiter [E] [LC]
+Jupiter [E] [ED]
+Jupiter [E] [ED]
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
+EMPTY SLOT
